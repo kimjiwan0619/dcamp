@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6923f195-8529-4b71-a13a-81e53c58b6ad" name="Default Changelist" comment="" />
+    <list default="true" id="6923f195-8529-4b71-a13a-81e53c58b6ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcnn_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcnn_main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +114,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/srcnn_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+            <state relative-caret-position="346">
+              <caret line="108" column="9" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -22,13 +126,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/srcnn_module.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,23 +157,28 @@
       <find>jpg</find>
       <find>output</find>
       <find>save</find>
+      <find>epoch</find>
+      <find>imsave</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/srcnn_main.py" />
         <option value="$PROJECT_DIR$/image_utils.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/srcnn_training.py" />
+        <option value="$PROJECT_DIR$/srcnn_main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1950" />
+    <option name="y" value="-21" />
+    <option name="width" value="1934" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -68,13 +189,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="srcnn_master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="srcnn_master" type="462c0819:PsiDirectoryNode" />
+              <item name="dcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcamp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="srcnn_master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="srcnn_master" type="462c0819:PsiDirectoryNode" />
+              <item name="dcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcamp" type="462c0819:PsiDirectoryNode" />
               <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="BSDS300" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="BSDS300" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,6 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -176,7 +311,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14857745" />
@@ -184,7 +319,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,16 +334,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -220,20 +345,39 @@
     <entry file="file://$PROJECT_DIR$/srcnn_training.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/srcnn_main.py">
+    <entry file="file://$PROJECT_DIR$/srcnn_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        <state relative-caret-position="342">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/srcnn_module.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/srcnn_master/srcnn_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcnn_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="108" column="9" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
