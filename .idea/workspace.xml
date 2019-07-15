@@ -2,77 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6923f195-8529-4b71-a13a-81e53c58b6ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/test/test/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/20931062-흰색-배경에-고립-솜-털-회색-아름-다운-고양이.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/31937709-흰색에-고립-된-아름-다운-고양이.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/32277427-흰색-배경에-아름-다운-빨간-성인-고양이.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/43739131-흰색에-고립-된-아름-다운-고양이.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/depositphotos_63087733-stock-photo-beautiful-cute-cat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/efaed7545aab3af5c181e5ee9d437827.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/feline-4162076_960_720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/images (1).jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/images.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/BSDS300/images/train/train/다운로드.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_10_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_11_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_11_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_11_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_11_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_11_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_12_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_12_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_12_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_12_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_12_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_1_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_1_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_1_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_1_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_1_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_2_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_2_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_2_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_2_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_2_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_3_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_3_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_3_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_3_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_3_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_4_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_4_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_4_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_4_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_4_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_5_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_5_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_5_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_5_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_5_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_6_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_6_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_6_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_6_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_6_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_7_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_7_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_7_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_7_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_7_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_8_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_8_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_8_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_8_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_8_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_9_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_9_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_9_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_9_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_epoch_9_5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/srcnn_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcnn_main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/srcnn_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="327">
+              <caret line="128" column="26" lean-forward="true" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -98,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/code/Second_NotNormalize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="53" />
+            <state relative-caret-position="399">
+              <caret line="136" column="48" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -125,6 +54,7 @@
       <find>save</find>
       <find>epoch</find>
       <find>imsave</find>
+      <find>model</find>
       <find>load_sta</find>
     </findStrings>
   </component>
@@ -141,9 +71,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2089" />
-    <option name="y" value="-21" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="403" />
+    <option name="y" value="-4" />
     <option name="width" value="1934" />
     <option name="height" value="1055" />
   </component>
@@ -265,7 +195,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14857745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,15 +266,15 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/code/Second_NotNormalize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="53" />
+        <state relative-caret-position="399">
+          <caret line="136" column="48" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/srcnn_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="327">
+          <caret line="128" column="26" lean-forward="true" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

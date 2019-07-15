@@ -13,7 +13,7 @@ import torch.optim as opt
 import numpy as np
 
 #=====Parameters======#
-upscale_factor = 4
+upscale_factor = 3
 epoch = 100
 learn_rate = 0.001
 use_gpu = 1
