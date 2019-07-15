@@ -15,18 +15,20 @@ import numpy as np
 #=====Parameters======#
 upscale_factor = 4
 epoch = 100
-learn_rate = 0.0001
+learn_rate = 0.001
 use_gpu = 1
 trainLR = []
 trainHR = []
 train_path = 'dataset/BSDS300/images/train'
 test_path = 'dataset/BSDS300/images/test'
 baseName = 'output/out_'
+baseName2 = 'output2/out_'
 #=====================#
 
 transform_data = transforms.Compose(
-    [transforms.ToTensor(),
-     transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
+    [transforms.ToTensor()
+		#,transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
+	 ])
 
 dl_dataset()
 
@@ -42,6 +44,7 @@ trainSet = datasets.ImageFolder(train_path, transform=transform, target_transfor
 testSet = datasets.ImageFolder(test_path, transform=transform, target_transform=None)
 
 srcnn = SRCNN()
+srcnn.load_state_dict(torch.load("./models/test"))
 loss_func = nn.MSELoss()
 
 if use_gpu :
@@ -85,6 +88,7 @@ def test(epoch, testSet, saveImgFlag):
 
 		sr_result = srcnn(imgLR)
 
+
 		if use_gpu:
 			outImg = sr_result.data.cpu().squeeze(0)
 		else:
@@ -102,8 +106,29 @@ def test(epoch, testSet, saveImgFlag):
 
 outImg = []
 
+for itr, data in enumerate(testSet):
+	imgs, label = data
+	imgLR, imgHR = imgs
+	imgLR.unsqueeze_(0)
+	imgHR.unsqueeze_(0)
+
+	if use_gpu:
+		imgLR = imgLR.cuda()
+		imgHR = imgLR.cuda()
+
+	sr_result = srcnn(imgLR)
+
+	if use_gpu:
+		outImg = sr_result.data.cpu().squeeze(0)
+	else:
+		outImg = sr_result.data.squeeze(0)
+	outFileName = baseName2 + 'epoch_' + str(epoch) + '_' + str(itr) + '.jpg'
+	saveImg(outImg, outFileName)
+
 for epoch in range(1, epoch+1):
 	train(epoch, trainSet)
-	test(epoch, testSet, 1)
 	#outFileName = baseName + 'epoch_' + str(epoch) + '.jpg'
 	#saveImg(outImg, outFileName)
+test(epoch, testSet, 1)
+
+torch.save(srcnn.state_dict(), "./models/test")
