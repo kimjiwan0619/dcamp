@@ -104,9 +104,6 @@ outImg = []
 
 for epoch in range(1, epoch+1):
 	train(epoch, trainSet)
-	if(epoch%10==0):
-		test(epoch, testSet, 1)
-	else:
-		test(epoch, testSet, 0)
+	test(epoch, testSet, 1)
 	#outFileName = baseName + 'epoch_' + str(epoch) + '.jpg'
 	#saveImg(outImg, outFileName)
